@@ -1,0 +1,5 @@
+Think well dear hacker before cracking SPEM_GRT{0b_g0b_ghx_gh_h1k3!}
+
+Hint: I think you need 427cfcf3ec4976e13e28f977fb791473
+
+Flag: KIET_CTF{0h_y0u_got_it_n1c3!}
