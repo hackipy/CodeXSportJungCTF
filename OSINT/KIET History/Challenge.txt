@@ -1,0 +1,5 @@
+Tell me the name of software which failed to load Flash SWF file on pafkiet.edu.pk site on 19 December 2008 and the error showed up on the main page.
+
+Note: Flag Format is KIET_CTF{Name}
+
+Flag: KIET_CTF{Ruffle}
