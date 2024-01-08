@@ -1,0 +1,3 @@
+It is usually simpler at start.
+
+Flag: KIET_CTF{H3R3_Y0U_G0_CR4CK3R}
