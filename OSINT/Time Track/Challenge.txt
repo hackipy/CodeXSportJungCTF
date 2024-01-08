@@ -1,0 +1,6 @@
+When did testenv.sarimraza.com went from http to https (First Time)? Find the date :p
+
+Note: Flag Format: KIET_CTF{YYYY-MM-DD}
+
+Flag: KIET_CTF{2021-08-25}
+
