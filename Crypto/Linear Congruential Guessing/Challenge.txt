@@ -1,0 +1,3 @@
+Why did the crypto developer get kicked out of the concert? They couldn't stop counting linearly, but the band needed more than just 'crypto-beats'!
+
+Flag: KIET_CTF{4p_n3_crypt0_k1s_s3_p4rh1_d34r_h4ck3r}
