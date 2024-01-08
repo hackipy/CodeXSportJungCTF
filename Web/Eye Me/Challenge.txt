@@ -1,0 +1,3 @@
+Sometimes what you are looking for is in front of you!
+
+Flag: KIET_CTF{H1DD3N_1N_P141N_S1GHT}
