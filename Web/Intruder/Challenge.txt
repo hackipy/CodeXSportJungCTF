@@ -1,0 +1,4 @@
+Hack the user sarimraza and retrieve the flag.
+
+Flag: 	KIET_CTF{y0u_pr0_h4ck3r_u_d1d_1t_<3}
+
