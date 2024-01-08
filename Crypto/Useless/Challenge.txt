@@ -1,0 +1,7 @@
+My Doctor told me to inject 2 CC of a medicine. I don't know because he has written some gibberish that I can't understand. 
+
+Can you read this? 55534F445F4D44507B30525F455F555830475F344C3045445F4D344F4334427D
+
+key = 5
+
+Flag: KIET_CTF{0H_U_KN0W_4B0UT_C4ES4R}
