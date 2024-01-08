@@ -1,0 +1,5 @@
+Can you alert me?
+
+Note: When executing alert you should only use: alert('done')
+
+Flag: KIET_CTF{X55_M45T3R_W311_D0N3_00}
