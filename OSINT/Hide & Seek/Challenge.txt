@@ -1,0 +1,11 @@
+Search this user on insta whose fullname is "Mr Robot"
+
+Note: Submit the Latitude & Longitude in this format: KIET_CTF{Latitude,Longitude} Consider two digits only after decimal point when submitting flag.
+
+Example: KIET_CTF{12.12,34.65}
+
+Hint # 01: Username contains underscores and 1337
+
+Hint # 02: Search the newly found username on other social media platforms.
+
+Flag: KIET_CTF{61.49,23.77}
