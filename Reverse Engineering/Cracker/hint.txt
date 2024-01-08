@@ -1,0 +1,15 @@
+The binary reads checks from a file if the user password is correct or not.
+
+File Read Code: 
+
+std::string readPasswordFromFile() {
+    std::ifstream configFile("config.txt");
+    std::string password;
+
+    if (configFile.is_open()) {
+        std::getline(configFile, password);
+        configFile.close();
+    }
+
+    return password;
+}
