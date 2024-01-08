@@ -1,0 +1,3 @@
+My site sarimraza.com is leaking information through a misconfiguration of records. You might find it what you are looking for 😁
+
+Flag: KIET_CTF{TxT_R3C0RD_W4S_L34K1NG}
