@@ -1,0 +1,3 @@
+Can you crack it in one go?
+
+Flag: KIET_CTF{w04h_h0w_d1d_y0u_h4ck_th1s!??}
