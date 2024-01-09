@@ -3,6 +3,10 @@ This repo contains all the challenges of Code X Sport Jung'23 CTF Competition.
 
 Writeups are available at: https://sarimraza.medium.com
 
+# Main Page
+
+![image](https://github.com/hackipy/CodeXSportJungCTF/assets/55577954/784443aa-adaa-4397-acc7-8d8c9fc77db6)
+
 
 # Event Details
 
